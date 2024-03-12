@@ -23,6 +23,7 @@ Este proyecto demuestra mis habilidades en la limpieza,preprocesamiento, trabaja
 | Archivo | Descripción  |
 |----------|-------------|
 | [Abandono De empleados](https://nbviewer.org/github/luishernand/fuga_empleados/blob/main/Abandono%20de%20empleados.ipynb)  |Notebook con todo lo relacionado al business analytics, costo y las predicción de los futuros empleados en riesgo de fuga |     
-| [Modelos](https://nbviewer.org/github/luishernand/fuga_empleados/blob/main/Modelos.ipynb)   | Los diferentes modelos aplicados, las técnicas para balancear los datos y la evaluación de los modelos   | Cell 6   |
-| Row 3    | Cell 8   | Cell 9   |
+| [Modelos](https://nbviewer.org/github/luishernand/fuga_empleados/blob/main/Modelos.ipynb)   | Los diferentes modelos aplicados, las técnicas para balancear los datos y la evaluación de los modelos   | 
+
+| Dashboar Fuga de empleados   | Dashboard que contiene la visualización de los principales KPIs e impacto economico de la fuga de empleados en: [PoweBI](https://github.com/luishernand/fuga_empleados/blob/main/dashboard%20fuga%20de%20empleados.pbix)  |
 
