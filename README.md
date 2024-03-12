@@ -23,6 +23,6 @@ Este proyecto demuestra mis habilidades en la limpieza,preprocesamiento, trabaja
 | Archivo | Descripción | Link |
 |----------|----------|----------|
 | Abandono De empleados  |Notebook con todo lo relacionado al business analytics, costo y las predicción de los futuros empleados en riesgo de fuga | [Notebook](https://nbviewer.org/github/luishernand/fuga_empleados/blob/main/Abandono%20de%20empleados.ipynb) |    
-| Row 2    | Cell 5   | Cell 6   |
+| [Modelos](https://nbviewer.org/github/luishernand/fuga_empleados/blob/main/Modelos.ipynb)   | Los diferentes modelos aplicados, las técnicas para balancear los datos y la evaluación de los modelos   | Cell 6   |
 | Row 3    | Cell 8   | Cell 9   |
 
