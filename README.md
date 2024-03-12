@@ -20,9 +20,9 @@ Finalmente, creé una aplicación web con Streamlit que muestra las principales 
 Este proyecto demuestra mis habilidades en la limpieza,preprocesamiento, trabajar con datos desbalanceados ,análisis y visualización de datos usando Python y herramientas de BI. Los dashboards y la aplicación web fueron diseñados pensando en la experiencia de usuario. 
 
 ### Código fuente: 
-| Archivo | Descripción | Link |
-|----------|----------|----------|
-| Abandono De empleados  |Notebook con todo lo relacionado al business analytics, costo y las predicción de los futuros empleados en riesgo de fuga | [Notebook](https://nbviewer.org/github/luishernand/fuga_empleados/blob/main/Abandono%20de%20empleados.ipynb) |    
+| Archivo | Descripción  |
+|----------|-------------|
+| [Abandono De empleados](https://nbviewer.org/github/luishernand/fuga_empleados/blob/main/Abandono%20de%20empleados.ipynb)  |Notebook con todo lo relacionado al business analytics, costo y las predicción de los futuros empleados en riesgo de fuga |     
 | [Modelos](https://nbviewer.org/github/luishernand/fuga_empleados/blob/main/Modelos.ipynb)   | Los diferentes modelos aplicados, las técnicas para balancear los datos y la evaluación de los modelos   | Cell 6   |
 | Row 3    | Cell 8   | Cell 9   |
 
