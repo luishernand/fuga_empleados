@@ -12,10 +12,9 @@ Este proyecto consiste en un análisis del impacto monetario y realizar las pred
 - Power BI
 - Tableau
 ________________________________________
-El análisis se realizó con Python, utilizando diferentes librerías, asi como también técnicas para balancear los datos.  
- 
+El análisis se realizó con Python, utilizando diferentes librerías, asi como también técnicas para balancear los datos.
 Para la representación visual de los hallazgos, desarrollé dashboards interactivos con Power BI y Tableau, que permiten filtrar y segmentar la información de múltiples maneras.    
 
 Finalmente, creé una aplicación web con Streamlit que muestra las principales métricas y visualizaciones, permitiendo al usuario interactuar con los resultados del análisis.    
 
-Este proyecto demuestra mis habilidades en la limpieza, análisis y visualización de datos usando Python y herramientas de BI. Los dashboards y la aplicación web fueron diseñados pensando en la experiencia de usuario. El código fuente se encuentra documentado en los link de abajo, para que otras personas puedan reproducir el flujo de trabajo.  
+Este proyecto demuestra mis habilidades en la limpieza,preprocesamiento, trabajar con datos desbalanceados ,análisis y visualización de datos usando Python y herramientas de BI. Los dashboards y la aplicación web fueron diseñados pensando en la experiencia de usuario. El código fuente se encuentra documentado en los link de abajo, para que otras personas puedan reproducir el flujo de trabajo.    
