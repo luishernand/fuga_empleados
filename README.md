@@ -22,10 +22,9 @@ Este proyecto demuestra mis habilidades en la limpieza,preprocesamiento, trabaja
 ### Código fuente: 
 | Archivo | Descripción | Link |
 |----------|----------|----------|
-| Abandono De empleados  | Aquí encontraras:  
-- EDA
-- Business Logic
-- Predicción    | [<img src="https://github.com/luishernand/NETFLIX/blob/main/imagenes/notebook.png" width="10%"> Notebook](https://nbviewer.org/github/luishernand/fuga_empleados/blob/main/Abandono%20de%20empleados.ipynb)|  
+| Abandono De empleados  | Nombre	Descripción	Link
+Abandono De empleados 	Notebook con todo lo relacionado a la Analitica del Negocio, Calculos del impacto de fuga y las predicción de los futuros empleados en riesgo	
+    | [Notebook](https://nbviewer.org/github/luishernand/fuga_empleados/blob/main/Abandono%20de%20empleados.ipynb)|  
 | Row 2    | Cell 5   | Cell 6   |
 | Row 3    | Cell 8   | Cell 9   |
 
