@@ -22,7 +22,7 @@ Este proyecto demuestra mis habilidades en la limpieza,preprocesamiento, trabaja
 ### Código fuente: 
 | Archivo | Descripción | Link |
 |----------|----------|----------|
-| Abandono De empleados  | En este notebook esta compuesto por EDA, Business Logic y la predicción del mejor modelo  | [Cell 3]
+| Abandono De empleados  | En este notebook esta compuesto por EDA, Business Logic y la predicción del mejor modelo  | [Cell 3][<img src="https://github.com/luishernand/NETFLIX/blob/main/imagenes/notebook.png" width="8%">]
  |
 | Row 2    | Cell 5   | Cell 6   |
 | Row 3    | Cell 8   | Cell 9   |
