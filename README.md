@@ -19,4 +19,10 @@ Finalmente, creé una aplicación web con Streamlit que muestra las principales 
 
 Este proyecto demuestra mis habilidades en la limpieza,preprocesamiento, trabajar con datos desbalanceados ,análisis y visualización de datos usando Python y herramientas de BI. Los dashboards y la aplicación web fueron diseñados pensando en la experiencia de usuario. 
 
-### El código fuente: 
+### Código fuente: 
+| Archivo | Descripción | Link |
+|----------|----------|----------|
+| Abandono De empleados  | En este notebook esta compuesto por EDA, Business Logic y la predicción del mejor modelo  | [Cell 3](https://nbviewer.org/github/luishernand/fuga_empleados/blob/main/Abandono%20de%20empleados.ipynb)https://nbviewer.org/github/luishernand/fuga_empleados/blob/main/Abandono%20de%20empleados.ipynb   |
+| Row 2    | Cell 5   | Cell 6   |
+| Row 3    | Cell 8   | Cell 9   |
+
