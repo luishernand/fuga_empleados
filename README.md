@@ -22,7 +22,8 @@ Este proyecto demuestra mis habilidades en la limpieza,preprocesamiento, trabaja
 ### Código fuente: 
 | Archivo | Descripción | Link |
 |----------|----------|----------|
-| Abandono De empleados  | En este notebook esta compuesto por EDA, Business Logic y la predicción del mejor modelo  | [Cell 3](https://nbviewer.org/github/luishernand/fuga_empleados/blob/main/Abandono%20de%20empleados.ipynb)https://nbviewer.org/github/luishernand/fuga_empleados/blob/main/Abandono%20de%20empleados.ipynb   |
+| Abandono De empleados  | En este notebook esta compuesto por EDA, Business Logic y la predicción del mejor modelo  | [Cell 3]
+ |
 | Row 2    | Cell 5   | Cell 6   |
 | Row 3    | Cell 8   | Cell 9   |
 
