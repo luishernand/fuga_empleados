@@ -26,4 +26,7 @@ Este proyecto demuestra mis habilidades en la limpieza,preprocesamiento, trabaja
 | [Modelos](https://nbviewer.org/github/luishernand/fuga_empleados/blob/main/Modelos.ipynb)   | Los diferentes modelos aplicados, las técnicas para balancear los datos y la evaluación de los modelos   |  
 | [Dashboard Fuga de empleados](https://github.com/luishernand/fuga_empleados/blob/main/dashboard%20fuga%20de%20empleados.pbix)   | Dashboard que contiene la visualización de los principales KPIs e impacto economico de la fuga de empleados, realizado en Power BI |
 | [app](https://github.com/luishernand/fuga_empleados/blob/main/app.py)   | apps creada en streamlit con el dashboard de los KPIs y la predicción de los datos |
+| Dashboard([https://github.com/luishernand/fuga_empleados/blob/main/app.py](https://public.tableau.com/views/fugadeempleados/Dashboard1?:language=es-ES&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
+)https://public.tableau.com/views/fugadeempleados/Dashboard1?:language=es-ES&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
+)   | Dashboard creado en tableau |
 
