@@ -1,4 +1,5 @@
-# Fuga de Empleados(Churn Rate)  
+## Fuga de Empleados(Churn Rate) 
+
 
 Este proyecto consiste en un análisis del impacto monetario y realizar las predicciones de lugar en cuando un empleado renuncia de la empresa. El objetivo saber cual es el costo cuando un empleado deja la compañia y poder predecir cuales tienen la probailidad de irse de ella técnicas de ciencia de datos y modelos de machine learning.  
 ### Tecnologías utilizadas:
@@ -29,4 +30,4 @@ Este proyecto demuestra mis habilidades en la limpieza,preprocesamiento, trabaja
 | [Dashboard](https://public.tableau.com/views/fugadeempleados/Dashboard1?:language=es-ES&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)  | Dashboard creado y publicado en tablau |
 
 
-![fuga](https://github.com/luishernand/fuga_empleados/blob/main/dashboard%20fuga%20de%20empleados.pdf)
+
