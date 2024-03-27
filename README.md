@@ -28,3 +28,5 @@ Este proyecto demuestra mis habilidades en la limpieza,preprocesamiento, trabaja
 | [app](https://github.com/luishernand/fuga_empleados/blob/main/app.py)   | apps creada en streamlit con el dashboard de los KPIs y la predicción de los datos |
 | [Dashboard](https://public.tableau.com/views/fugadeempleados/Dashboard1?:language=es-ES&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)  | Dashboard creado y publicado en tablau |
 
+
+![fuga](https://github.com/luishernand/fuga_empleados/blob/main/dashboard%20fuga%20de%20empleados.pdf)
