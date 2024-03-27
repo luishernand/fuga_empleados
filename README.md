@@ -33,6 +33,6 @@ Este proyecto demuestra mis habilidades en la limpieza,preprocesamiento, trabaja
 ![PBI](https://github.com/luishernand/fuga_empleados/blob/main/PBI.png)
 
 ## Repositorio  
-- Aqui encontraras todos mis proyectos de forma organizada
-[repo](https://github.com/luishernand/repositorios)
+- Aqui encontraras todos mis proyectos de forma organizada  
+[carpeta de proyectos](https://github.com/luishernand/repositorios)
 
